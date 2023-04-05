@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=🤖Beep Boop🤖&animation=fadeIn&type=waving&color=timeGradient&height=100"/>
-</p>
-
 **Hello there!** This is the Github page of Tyler T. Procko.
 
 * 📖 Pursuing PhD in EECS at Embry-Riddle Aeronautical University 
