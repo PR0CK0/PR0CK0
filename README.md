@@ -4,7 +4,7 @@
 * ✈️ Funded by the DoD's Science, Mathematics and Research for Transformation (SMART) scholarship
 * 🎓 Conducting research on **Semantic Web**, **applied Ontology**, **NLP** and **GAI**
 * 💡 Open to collaborating on new projects
-* 💬 See my full CV at [procko.pro](procko.pro)
+* 💬 See my full CV at [procko.pro](https://procko.pro)
 
 <br>
 
