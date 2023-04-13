@@ -8,10 +8,11 @@
 
 <br>
 
+[![PR0CK0's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0ck0&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PR0CK0&theme=radical)](https://git.io/streak-stats)
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
-
-[![PR0CK0's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0ck0&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
