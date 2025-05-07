@@ -1,6 +1,6 @@
 **Hello there!** This is the Github page of Tyler T. Procko.
 
-* 📖 Pursuing PhD in EECS at Embry-Riddle Aeronautical University 
+* 📖 PhD in EECS from Embry-Riddle Aeronautical University 
 * ✈️ Funded by the DoD's Science, Mathematics and Research for Transformation (SMART) scholarship
 * 🎓 Conducting research on **Semantic Web**, **applied Ontology**, **NLP** and **GAI**
 * 💡 Open to collaborating on new projects
