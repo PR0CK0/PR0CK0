@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Ontology-Grounded+LLM+Systems;Knowledge+Graphs+%C2%B7+Agentic+AI+%C2%B7+Provenance)](https://procko.pro)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1500&pause=2000&color=00FF88&center=true&vCenter=true&width=700&height=40&repeat=true&lines=Ontology-Grounded+LLM+Systems;Knowledge+Graphs+%C2%B7+Agentic+AI+%C2%B7+Provenance;Agentic+RAG+%C2%B7+ML+Provenance+%C2%B7+XAI)](https://procko.pro)
 
 **Tyler T. Procko, Ph.D.** | AI Engineer | Florida, USA
 
