@@ -13,7 +13,7 @@
 I build systems where **LLMs reason over structured knowledge** — not just retrieve text, but traverse ontologies, respect formal semantics, and produce traceable, explainable outputs.
 
 **What I work on:**
-- Ontology-grounded RAG and agentic LLM pipelines (Claude, GPT, open-source)
+- Ontology-grounded RAG and agentic LLM pipelines (Claude, GPT, Ollama, LM Studio, open-source)
 - BFO/CCO-compliant knowledge graphs for defense, aerospace, and cybersecurity
 - ML provenance tracking with PROV-O — making AI decisions auditable
 - 37 publications spanning KG+LLM synergy, explainable AI, and applied ontology
@@ -50,6 +50,7 @@ I build systems where **LLMs reason over structured knowledge** — not just ret
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![GraphDB](https://img.shields.io/badge/GraphDB-FF6F00?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 ![BFO](https://img.shields.io/badge/BFO%2FCCO-1E3A5F?style=flat-square)
 ![PROV--O](https://img.shields.io/badge/PROV--O-6366F1?style=flat-square)
