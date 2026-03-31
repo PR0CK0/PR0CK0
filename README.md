@@ -58,12 +58,6 @@ I build systems where **LLMs reason over structured knowledge** — not just ret
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pr0ck0&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00ff88&icon_color=00ff88&text_color=c8d6f0" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pr0ck0&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=00000000" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pr0ck0&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00ff88&icon_color=00ff88&text_color=c8d6f0" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PR0CK0&theme=github-dark-blue&hide_border=true&background=00000000&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PR0CK0&theme=default&hide_border=true&background=00000000" />
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=PR0CK0&theme=github-dark-blue&hide_border=true&background=00000000&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
