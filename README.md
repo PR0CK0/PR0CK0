@@ -30,6 +30,7 @@ I build systems where **LLMs reason over structured knowledge** — not just ret
 
 ### Notable Open Source
 
+- [`dissenter`](https://github.com/PR0CK0/dissenter) — multi-LLM adversarial critique framework for stress-testing AI outputs
 - [`ProvTracer`](https://github.com/PR0CK0/ProvTracer) — dissertation tool: automated software traceability via KG + LLM synergy
 - [`awesome-bfo`](https://github.com/PR0CK0/awesome-bfo) — curated list for the Basic Formal Ontology ecosystem
 - [`StableDiffusionEndToEndGuide`](https://github.com/PR0CK0/StableDiffusionEndToEndGuide) — end-to-end SD guide (46+ stars)
