@@ -13,10 +13,10 @@
 I build systems where **LLMs reason over structured knowledge** — not just retrieve text, but traverse ontologies, respect formal semantics, and produce traceable, explainable outputs.
 
 **What I work on:**
-- Ontology-grounded RAG and agentic LLM pipelines (Claude, GPT, Ollama, LM Studio, open-source)
-- BFO/CCO-compliant knowledge graphs for defense, aerospace, and cybersecurity
-- ML provenance tracking with PROV-O — making AI decisions auditable
-- 37 publications spanning KG+LLM synergy, explainable AI, and applied ontology
+- 🤖 Ontology-grounded RAG and agentic LLM pipelines (Claude, GPT, Ollama, LM Studio, open-source)
+- 🕸️ BFO/CCO-compliant knowledge graphs for defense, aerospace, and cybersecurity
+- 🔍 ML provenance tracking with PROV-O — making AI decisions auditable
+- 📄 37 publications spanning KG+LLM synergy, explainable AI, and applied ontology
 
 **What I believe:** LLMs get radically better when you give them something real to reason over. Ontologies aren't legacy tech — they're the missing layer between retrieval and reasoning.
 
@@ -24,17 +24,17 @@ I build systems where **LLMs reason over structured knowledge** — not just ret
 
 ### Current
 
-- **Principal Knowledge Architect** @ stealth cybersecurity startup — ontology design, NLP model selection, Claude/GPT integration
-- **AI Consultant** — ontology engineering, LLM evaluation (RLHF), knowledge graph construction
-- Building [`procko.pro`](https://procko.pro) — my portfolio, generated entirely from a single YAML source file
+- 🔐 **Principal Knowledge Architect** @ stealth cybersecurity startup — ontology design, NLP model selection, Claude/GPT integration
+- 💡 **AI Consultant** — ontology engineering, LLM evaluation (RLHF), knowledge graph construction
+- 🌐 Building [`procko.pro`](https://procko.pro) — my portfolio, generated entirely from a single YAML source file
 
 ### Notable Open Source
 
-- [`dissenter`](https://github.com/PR0CK0/dissenter) — multi-LLM adversarial critique framework for stress-testing AI outputs
-- [`ProvTracer`](https://github.com/PR0CK0/ProvTracer) — dissertation tool: automated software traceability via KG + LLM synergy
-- [`awesome-bfo`](https://github.com/PR0CK0/awesome-bfo) — curated list for the Basic Formal Ontology ecosystem
-- [`StableDiffusionEndToEndGuide`](https://github.com/PR0CK0/StableDiffusionEndToEndGuide) — end-to-end SD guide (46+ stars)
-- [`machine-learning-ontologies`](https://github.com/PR0CK0/machine-learning-ontologies) — OWL ontologies for ML concepts
+- ⚔️ [`dissenter`](https://github.com/PR0CK0/dissenter) — multi-LLM adversarial critique framework for stress-testing AI outputs
+- 🔬 [`ProvTracer`](https://github.com/PR0CK0/ProvTracer) — dissertation tool: automated software traceability via KG + LLM synergy
+- ⭐ [`awesome-bfo`](https://github.com/PR0CK0/awesome-bfo) — curated list for the Basic Formal Ontology ecosystem
+- 🎨 [`StableDiffusionEndToEndGuide`](https://github.com/PR0CK0/StableDiffusionEndToEndGuide) — end-to-end SD guide (46+ stars)
+- 🦉 [`machine-learning-ontologies`](https://github.com/PR0CK0/machine-learning-ontologies) — OWL ontologies for ML concepts
 
 ---
 
